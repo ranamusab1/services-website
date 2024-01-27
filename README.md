@@ -18,6 +18,10 @@ Welcome to the Service Seller Front-End Website repository! This project is desi
 
 - **Social Media Integration**: Connect your social media profiles to the website for increased visibility. Share updates, connect with your audience, and leverage social platforms for marketing.
 
+## Preview Of The Website
+
+[![Watch the video](https://youtu.be/Fdj2luxTCWY?si=6XuJmt8FEQOUDpFm)
+
 ## Getting Started
 
 To get started with this front-end website:
