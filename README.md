@@ -20,7 +20,7 @@ Welcome to the Service Seller Front-End Website repository! This project is desi
 
 ## Preview Of The Website
 
-[![Watch the video](https://youtu.be/Fdj2luxTCWY?si=6XuJmt8FEQOUDpFm)
+[![Watch the video](https://youtu.be/Fdj2luxTCWY?si=6XuJmt8FEQOUDpFm)]
 
 ## Getting Started
 
